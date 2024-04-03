@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0",
+    "puppeteer": "^13.5.1",
+    "recaptcha-solver-service": "^1.0.11",
+    "uuid": "^8.3.2"
+  }
+}
